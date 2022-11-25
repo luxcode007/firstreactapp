@@ -1,6 +1,6 @@
-/* .App {
-  text-align: center;
-} */
+* {
+  font-family: sans-serif;
+}
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  background: #ee9972;
+  padding: 20px;
+}
+nav a {
+  color: #edefee;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
